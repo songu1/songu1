@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songu1&show_icons=true&theme=gruvbox_light) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songu1&langs_count=3&layout=compact&theme=vue)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songu1&langs_count=3&layout=compact&theme=vue) -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syj000)](https://solved.ac/syj000/)
