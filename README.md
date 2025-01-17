@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">  ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white) <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
-![JPA](https://img.shields.io/badge/Jpa-000000.svg?&style=for-the-badge) ![MyBatis](https://img.shields.io/badge/Mybatis-000000.svg?&style=for-the-badge) ![JSP](https://img.shields.io/badge/Jsp-000000.svg?&style=for-the-badge) 
+![JPA](https://img.shields.io/badge/Jpa-000000.svg?&style=for-the-badge) ![MyBatis](https://img.shields.io/badge/Mybatis-000000.svg?&style=for-the-badge) 
 
 
 <br></br>
