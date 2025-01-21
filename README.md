@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ![JPA](https://img.shields.io/badge/Jpa-000000.svg?&style=for-the-badge) ![MyBatis](https://img.shields.io/badge/Mybatis-000000.svg?&style=for-the-badge) 
 
 
-<br></br>
+<!-- <br></br>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songu1&show_icons=true&theme=gruvbox_light) 
  
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syj000)](https://solved.ac/syj000/) 
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syj000)](https://solved.ac/syj000/) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songu1&langs_count=3&layout=compact&theme=vue) -->
 </div>
 
